@@ -1,0 +1,6 @@
+// Test file for challenge at: https://twitter.com/RareSkills_io/status/1578656813641498625
+// forge test --fork-url https://polygon-mainnet.g.alchemy.com/v2/MTJ.........NcAwj -vvvv
+
+// Attention: due to forge restriction number addresses must be always n > 10
+
+forge test --fork-url https://polygon-mainnet.g.alchemy.com/v2/MTJTR...iNcAwj -vvvvv
